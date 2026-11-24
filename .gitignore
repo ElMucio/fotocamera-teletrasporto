@@ -1,0 +1,10 @@
+.python/
+.uv-cache/
+.venv/
+models/
+clips/
+config/impostazioni.json
+build/
+dist/
+__pycache__/
+*.pyc
